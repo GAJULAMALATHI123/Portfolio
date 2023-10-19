@@ -174,8 +174,6 @@ button{
     padding:13px 30px ;
     border-radius: 30px;
     transition: .4s;
-    /* justify-content: center;
-    align-items: center; */
     margin-left: 200px;
     margin-bottom: 30px;
 }
@@ -252,7 +250,6 @@ header.sticky{
 }
 .project{
     width: 100%;
-   /* padding: 1000px 0; */
    background-color:#191919;
 }
 .portfolio-content{
